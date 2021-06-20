@@ -61,7 +61,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👨‍💼', url="https://t.me/FlyingKILI"
                                 )
                         ]
                     ]
@@ -80,7 +80,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 👨‍💼', url="https://t.me/FlyingKILI"
                                 )
                         ]
                     ]
@@ -99,7 +99,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/FlyingKILI"
                                 )
                         ]
                     ]
@@ -118,7 +118,7 @@ async def start(bot, update):
         InlineKeyboardButton('👩‍👩‍👧 𝙶𝚛𝚘𝚞𝚙', url=f'{MT_GROUP}'),
         InlineKeyboardButton('𝙲𝚑𝚊𝚗𝚗𝚎𝚕 🔊', url=f'{MT_CHANNEL}')
     ],[
-        InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://youtu.be/OTqZmADyOjU')
+        InlineKeyboardButton('source', url='https://t.me/Uvvauvve')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -157,10 +157,10 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 @𝙼𝚛𝚔_𝚈𝚃 👤', url='https://t.me/MRK_YT'),
-        InlineKeyboardButton('@𝚂𝚔𝚙_𝙺𝚙 👤', url='https://t.me/Skp_Kp')
+        InlineKeyboardButton('👤 creator 👤', url='https://t.me/FlyingKILI'),
+        InlineKeyboardButton('@source 👤', url='https://t.me/uvvauvve')
     ],[
-        InlineKeyboardButton('👤 @𝙰𝚕𝚋𝚎𝚛𝚝𝙴𝚒𝚗𝚜𝚝𝚎𝚒𝚗𝚃𝙶 👤', url='https://t.me/AlbertEinsteinTG')
+        InlineKeyboardButton('👤 @Zues_of_telegramX 👤', url='https://t.me/FlyingKILI')
     ],[
         InlineKeyboardButton('🏠 𝙷𝚘𝚖𝚎', callback_data='start'),
         InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 🔐', callback_data='close')
