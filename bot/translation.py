@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """No one gonn help you 😜🤣"""    
+    START_TEXT = """𓆩😍𓆪 𓆩😍𓆪 𓆩😍𓆪 𓆩😍𓆪 𓆩😍𓆪 """    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -35,8 +35,6 @@ class Translation(object):
             -> <code>Configure</code> - <b>Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results</b>
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
-            
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
