@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """𓆩😍𓆪 𓆩😍𓆪 𓆩😍𓆪 𓆩😍𓆪 𓆩😍𓆪 """    
+    START_TEXT = """"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -39,13 +39,13 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/FlyingKILI"
+<b>>➥Master</b> : <b><a href="https://t.me/ITzMeZeus"
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/FlyingKILI"
+<b>➥Editor</b> : <b><a href="https://t.me/ITzMeZeus"
 
-<b>➥ 🗣️Language</b> : <b>Python3<b>
+<b>➥Language</b> : <b>Python3<b>
 
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
+<b>➥Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/Uvvauvve">💥Click
+<b>➥Source Code</b> : <b><a href="https://t.me/neepodamonkey">💥Click
 """
